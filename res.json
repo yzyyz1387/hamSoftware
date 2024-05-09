@@ -103,7 +103,7 @@
     "dec": "将图片转换为SSTV音频，可在软件内编辑图片上的文字",
     "zh-CN": true,
     "icon": "SSTV Encoder.png",
-    "ver": "2.10",
+    "ver": "V2.10",
     "platform": "Android",
     "url": "https://wwp.lanzouj.com/iE4Ii1y542vi"
   },
@@ -112,7 +112,7 @@
     "dec": "解码SSTV音频，并保存解码的图片",
     "zh-CN": true,
     "icon": "Robot36.png",
-    "ver": "1.48",
+    "ver": "V1.48",
     "platform": "Android",
     "url": "https://wwp.lanzouj.com/iE1AM1y543sb"
   },
@@ -121,7 +121,7 @@
     "dec": "南山对讲，手机APP对讲机，你的手机就是对讲机",
     "zh-CN": true,
     "icon": "南山对讲.png",
-    "ver": "1.48",
+    "ver": "lasted (最新)",
     "platform": "Android iOS Win",
     "url": "http://www.nsptt.com/"
   }
