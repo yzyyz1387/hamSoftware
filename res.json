@@ -55,7 +55,7 @@
   },
   "CW Studio": {
     "name": "CW Studio",
-    "dec": "一款摩斯电码对照、练习、转码软件，非Pro版，未解锁Pro功能（请注意，此文件由apks合成为apk，签名与原版冲突）",
+    "dec": "一款摩斯电码对照、练习、转码软件，非Pro版，未解锁Pro功能",
     "zh-CN": false,
     "icon": "CW Studio.png",
     "ver": "V1.6.3",
@@ -64,7 +64,7 @@
   },
   "NanoVNA WebApp": {
     "name": "NanoVNA WebApp",
-    "dec": "NanoVNA 天分app, 将天分连接至手机，即可在手机查看数据，可下载软件，也可直接访问：https://cho45.stfuawsc.com/NanoVNA/（请注意，此文件由apks合成为apk，签名与原版冲突）",
+    "dec": "NanoVNA 天分app, 将天分连接至手机，即可在手机查看数据",
     "zh-CN": false,
     "icon": "NanoVNA WebApp.png",
     "ver": "V1.4",
