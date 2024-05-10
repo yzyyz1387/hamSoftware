@@ -1,0 +1,139 @@
+{
+  "智谱":{
+    "name": "智谱",
+    "dec": "与CRAC官网接驳的APP, 可用其报名大部分地区的考试，前往手机应用商店下载最新版",
+    "zh-CN": true,
+    "icon": "智谱.png",
+    "ver": "V1.5.9",
+    "platform": "Android iOS",
+    "url": "https://pan.nwafu.edu.cn/share/6dea4c0009f8f2195036943556"
+  },
+  "Look4Sat": {
+    "name": "Look4Sat",
+    "dec": "一款卫星过境追踪软件，最新版，简体中文",
+    "zh-CN": true,
+    "icon": "Look4Sat.webp",
+    "ver": "V3.1.4",
+    "platform": "Android",
+    "url": "https://pan.nwafu.edu.cn/share/3a2813f528653e7eb2ab215764"
+  },
+  "Look4Sat-Old": {
+    "name": "Look4Sat",
+    "dec": "一款卫星过境追踪软件，旧版，可自定义数据源，无中文，不可与新版共存",
+    "zh-CN": false,
+    "icon": "Look4Sat.webp",
+    "ver": "V2.6.0",
+    "platform": "Android",
+    "url": "https://pan.nwafu.edu.cn/share/61ec69c2ce99cb9767bc4c8b40"
+  },
+  "ISS-Detector": {
+    "name": "ISS-Detector 专业版",
+    "dec": "另一款卫星过境追踪软件，中文",
+    "zh-CN": true,
+    "icon": "ISS-Detector.png",
+    "ver": "V2.04.23 Pro",
+    "platform": "Android",
+    "url": "https://pan.nwafu.edu.cn/share/5a901f6b41f40a8cf2ec8bd758"
+  },
+  "Heaven-Above Pro": {
+    "name": "Heaven-Above 专业版",
+    "dec": "一款天体追踪软件，不太适合打卫星用",
+    "zh-CN": true,
+    "icon": "Heaven-Above.png",
+    "ver": "V1.13",
+    "platform": "Android",
+    "url": "https://pan.nwafu.edu.cn/share/cb392b4c99a5b2720d500ca42b"
+  },
+  "Morse Expert": {
+    "name": "Morse Expert",
+    "dec": "摩斯电码音频解码（实时），可是设置针对HAM CW通联的内容进行解码",
+    "zh-CN": false,
+    "icon": "Morse Expert.png",
+    "ver": "V1.13",
+    "platform": "Android",
+    "url": "https://pan.nwafu.edu.cn/share/eb38278c381b44e212f78d4669"
+  },
+  "Morse Code Reader": {
+    "name": "Morse Code Reader (小海豹)",
+    "dec": "另一款摩斯电码实时解码软件，体验较一般",
+    "zh-CN": false,
+    "icon": "Morse Code Reader.png",
+    "ver": "V1.0",
+    "platform": "Android",
+    "url": "https://pan.nwafu.edu.cn/share/65afc18a665534086383f1b48f"
+  },
+  "CW Studio": {
+    "name": "CW Studio",
+    "dec": "一款摩斯电码对照、练习、转码软件，非Pro版，未解锁Pro功能",
+    "zh-CN": false,
+    "icon": "CW Studio.png",
+    "ver": "V1.6.3",
+    "platform": "Android",
+    "url": "https://pan.nwafu.edu.cn/share/47f52997a3207c929175d3c7a6"
+  },
+  "NanoVNA WebApp": {
+    "name": "NanoVNA WebApp",
+    "dec": "NanoVNA 天分app, 将天分连接至手机，即可在手机查看数据",
+    "zh-CN": false,
+    "icon": "NanoVNA WebApp.png",
+    "ver": "V1.4",
+    "platform": "Android",
+    "url": "https://pan.nwafu.edu.cn/share/f89caa6c618dbe09db6568bdf2"
+  },
+  "APRSdroid": {
+    "name": "APRSdroid",
+    "dec": "用手机收发APRS的老牌软件，支持多种形式APRS信号输出",
+    "zh-CN": true,
+    "icon": "APRSdroid.png",
+    "ver": "lasted (最新)",
+    "platform": "Android",
+    "url": "https://aprsdroid.org/download/APRSdroid-current.apk"
+  },
+  "HT": {
+    "name": "HT",
+    "dec": "威诺部分电台配套的手机应用，不配合电台也可进行APRS收发、网络对讲、摩斯电码解码等",
+    "zh-CN": true,
+    "icon": "HT.png",
+    "ver": "lasted (最新)",
+    "platform": "Android iOS",
+    "url": "https://www.benshikj.com/app%e4%b8%8b%e8%bd%bd/"
+  },
+  "Ft8CN": {
+    "name": "Ft8CN",
+    "dec": "用于业余无线电FT8通讯的工具软件，由BG7YOZ开发。",
+    "zh-CN": true,
+    "icon": "Ft8CN.png",
+    "ver": "lasted (最新)",
+    "platform": "Android",
+    "url": "https://gitee.com/bg7yoz/ft8cn/releases"
+  },
+  "SSTV Encoder": {
+    "name": "SSTV Encoder",
+    "dec": "将图片转换为SSTV音频，可在软件内编辑图片上的文字",
+    "zh-CN": true,
+    "icon": "SSTV Encoder.png",
+    "ver": "V2.10",
+    "platform": "Android",
+    "url": "https://pan.nwafu.edu.cn/share/2bb949a13ae6df76b14187dc12"
+  },
+  "Robot36": {
+    "name": "Robot36",
+    "dec": "解码SSTV音频，并保存解码的图片",
+    "zh-CN": true,
+    "icon": "Robot36.png",
+    "ver": "V1.48",
+    "platform": "Android",
+    "url": "https://pan.nwafu.edu.cn/share/9480558fd9c8ed75a7feb28372"
+  },
+  "南山对讲": {
+    "name": "南山对讲",
+    "dec": "南山对讲，手机APP对讲机，你的手机就是对讲机",
+    "zh-CN": true,
+    "icon": "南山对讲.png",
+    "ver": "lasted (最新)",
+    "platform": "Android iOS Win",
+    "url": "http://www.nsptt.com/"
+  }
+
+
+}
