@@ -19,7 +19,7 @@
   },
   "ISS-Detector": {
     "name": "ISS-Detector 专业版",
-    "dec": "另一款卫星过境追踪软件，中文，不可与新版共存",
+    "dec": "另一款卫星过境追踪软件，中文",
     "zh-CN": true,
     "icon": "ISS-Detector.png",
     "ver": "V2.04.23 Pro",
