@@ -1,4 +1,13 @@
 {
+  "智谱":{
+    "name": "智谱",
+    "dec": "与CRAC官网接驳的APP, 可用其报名大部分地区的考试，前往手机应用商店下载最新版",
+    "zh-CN": true,
+    "icon": "智谱.png",
+    "ver": "V1.5.9",
+    "platform": "Android iOS",
+    "url": "https://pan.nwafu.edu.cn/share/6dea4c0009f8f2195036943556"
+  }
   "Look4Sat": {
     "name": "Look4Sat",
     "dec": "一款卫星过境追踪软件，最新版，简体中文",
