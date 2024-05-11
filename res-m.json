@@ -6,7 +6,8 @@
     "icon": "智谱.png",
     "ver": "V1.5.9",
     "platform": "Android iOS",
-    "url": "https://pan.nwafu.edu.cn/share/6dea4c0009f8f2195036943556"
+    "url": "https://pan.nwafu.edu.cn/share/6dea4c0009f8f2195036943556",
+    "related-url": "http://82.157.138.16:8091/CRAC/crac/contact.html"
   },
   "Look4Sat": {
     "name": "Look4Sat",
@@ -15,7 +16,8 @@
     "icon": "Look4Sat.webp",
     "ver": "V3.1.4",
     "platform": "Android",
-    "url": "https://pan.nwafu.edu.cn/share/3a2813f528653e7eb2ab215764"
+    "url": "https://pan.nwafu.edu.cn/share/3a2813f528653e7eb2ab215764",
+    "related-url": "https://github.com/rt-bishop/Look4Sat"
   },
   "Look4Sat-Old": {
     "name": "Look4Sat",
@@ -24,7 +26,8 @@
     "icon": "Look4Sat.webp",
     "ver": "V2.6.0",
     "platform": "Android",
-    "url": "https://pan.nwafu.edu.cn/share/61ec69c2ce99cb9767bc4c8b40"
+    "url": "https://pan.nwafu.edu.cn/share/61ec69c2ce99cb9767bc4c8b40",
+    "related-url": "https://github.com/rt-bishop/Look4Sat"
   },
   "ISS-Detector": {
     "name": "ISS-Detector 专业版",
@@ -33,7 +36,8 @@
     "icon": "ISS-Detector.png",
     "ver": "V2.04.23 Pro",
     "platform": "Android",
-    "url": "https://pan.nwafu.edu.cn/share/5a901f6b41f40a8cf2ec8bd758"
+    "url": "https://pan.nwafu.edu.cn/share/5a901f6b41f40a8cf2ec8bd758",
+    "related-url": "https://www.issdetector.com/"
   },
   "Heaven-Above Pro": {
     "name": "Heaven-Above 专业版",
@@ -42,7 +46,8 @@
     "icon": "Heaven-Above.png",
     "ver": "V1.13",
     "platform": "Android",
-    "url": "https://pan.nwafu.edu.cn/share/cb392b4c99a5b2720d500ca42b"
+    "url": "https://pan.nwafu.edu.cn/share/cb392b4c99a5b2720d500ca42b",
+    "related-url": "https://www.heavens-above.com/"
   },
   "Morse Expert": {
     "name": "Morse Expert",
@@ -51,7 +56,8 @@
     "icon": "Morse Expert.png",
     "ver": "V1.13",
     "platform": "Android",
-    "url": "https://pan.nwafu.edu.cn/share/eb38278c381b44e212f78d4669"
+    "url": "https://pan.nwafu.edu.cn/share/eb38278c381b44e212f78d4669",
+    "related-url": "https://ve3nea.github.io/MorseExpert/"
   },
   "Morse Code Reader": {
     "name": "Morse Code Reader (小海豹)",
@@ -60,7 +66,8 @@
     "icon": "Morse Code Reader.png",
     "ver": "V1.0",
     "platform": "Android",
-    "url": "https://pan.nwafu.edu.cn/share/65afc18a665534086383f1b48f"
+    "url": "https://pan.nwafu.edu.cn/share/65afc18a665534086383f1b48f",
+    "related-url": ""
   },
   "CW Studio": {
     "name": "CW Studio",
@@ -69,7 +76,8 @@
     "icon": "CW Studio.png",
     "ver": "V1.6.3",
     "platform": "Android",
-    "url": "https://pan.nwafu.edu.cn/share/47f52997a3207c929175d3c7a6"
+    "url": "https://pan.nwafu.edu.cn/share/47f52997a3207c929175d3c7a6",
+    "related-url": ""
   },
   "NanoVNA WebApp": {
     "name": "NanoVNA WebApp",
@@ -78,7 +86,8 @@
     "icon": "NanoVNA WebApp.png",
     "ver": "V1.4",
     "platform": "Android",
-    "url": "https://pan.nwafu.edu.cn/share/f89caa6c618dbe09db6568bdf2"
+    "url": "https://pan.nwafu.edu.cn/share/f89caa6c618dbe09db6568bdf2",
+    "related-url": "https://cho45.stfuawsc.com/NanoVNA/"
   },
   "APRSdroid": {
     "name": "APRSdroid",
@@ -87,7 +96,8 @@
     "icon": "APRSdroid.png",
     "ver": "lasted (最新)",
     "platform": "Android",
-    "url": "https://aprsdroid.org/download/APRSdroid-current.apk"
+    "url": "https://aprsdroid.org/download/APRSdroid-current.apk",
+    "related-url": "https://www.hellocq.net/forum/read.php?tid=353545"
   },
   "HT": {
     "name": "HT",
@@ -96,7 +106,8 @@
     "icon": "HT.png",
     "ver": "lasted (最新)",
     "platform": "Android iOS",
-    "url": "https://www.benshikj.com/app%e4%b8%8b%e8%bd%bd/"
+    "url": "https://www.benshikj.com/app%e4%b8%8b%e8%bd%bd/",
+    "related-url": "https://forum.hamcq.cn/d/1601/4"
   },
   "Ft8CN": {
     "name": "Ft8CN",
@@ -105,7 +116,8 @@
     "icon": "Ft8CN.png",
     "ver": "lasted (最新)",
     "platform": "Android",
-    "url": "https://gitee.com/bg7yoz/ft8cn/releases"
+    "url": "https://gitee.com/bg7yoz/ft8cn/releases",
+    "related-url": "https://gitee.com/bg7yoz/ft8cn"
   },
   "SSTV Encoder": {
     "name": "SSTV Encoder",
@@ -114,7 +126,8 @@
     "icon": "SSTV Encoder.png",
     "ver": "V2.10",
     "platform": "Android",
-    "url": "https://pan.nwafu.edu.cn/share/2bb949a13ae6df76b14187dc12"
+    "url": "https://pan.nwafu.edu.cn/share/2bb949a13ae6df76b14187dc12",
+    "related-url": "https://github.com/olgamiller/SSTVEncoder2"
   },
   "Robot36": {
     "name": "Robot36",
@@ -123,7 +136,8 @@
     "icon": "Robot36.png",
     "ver": "V1.48",
     "platform": "Android",
-    "url": "https://pan.nwafu.edu.cn/share/9480558fd9c8ed75a7feb28372"
+    "url": "https://pan.nwafu.edu.cn/share/9480558fd9c8ed75a7feb28372",
+    "related-url": "https://github.com/xdsopl/robot36"
   },
   "南山对讲": {
     "name": "南山对讲",
@@ -132,8 +146,19 @@
     "icon": "南山对讲.png",
     "ver": "lasted (最新)",
     "platform": "Android iOS Win",
-    "url": "http://www.nsptt.com/"
-  }
+    "url": "http://www.nsptt.com/",
+    "related-url": ""
+  },
+  "AndFlmsg":{
+    "name": "AndFlmsg",
+    "dec": "数传音频解码、转码软件",
+    "zh-CN": true,
+    "icon": "AndFlmsg.png",
+    "ver": "lasted(最新)",
+    "platform": "Android",
+    "url": "http://www.w1hkj.com/files/AndFlmsg/",
+    "related-url": "https://www.bilibili.com/video/BV1654y1h7N7"
+  }  
 
 
 }
