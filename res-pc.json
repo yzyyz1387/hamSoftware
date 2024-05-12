@@ -73,7 +73,7 @@
     "name": "RX-SSTV",
     "dec": "SSTV音频解码软件",
     "zh-CN": false,
-    "icon": "wsjtx.png",
+    "icon": "RX-SSTV.png",
     "ver": "V1.0.6",
     "platform": "Win",
     "url": "https://www.qsl.net/on6mu/download/Setup_RXSSTV.exe",
