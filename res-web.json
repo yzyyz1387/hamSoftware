@@ -18,5 +18,14 @@
     "platform": "ALL",
     "url": "https://www.cqid.cn/",
     "related-url": "https://www.cqid.cn/news/article"
+  },
+  "amsat":{
+    "name": "AMSAT",
+    "dec": "卫星状态上报分享王网站",
+    "zh-CN": true,
+    "icon": "https://amsat.org/favicon.ico",
+    "ver": ".",
+    "platform": "ALL",
+    "url": "https://amsat.org/status/index.php",
   }
 }
