@@ -1,0 +1,135 @@
+### Gpredict
+- name: Gpredict
+- dec: Gpredict 是一个实时卫星跟踪和轨道预测应用程序
+- zh-CN: False
+- icon: Gpredict.png
+- ver: lasted(最新)
+- platform: Win
+- url: https://sourceforge.net/projects/gpredict/files/Gpredict/
+- related-url: https://www.dtrac.cn/doku.php?id=dtrac_gpredict
+### Orbitron
+- name: Orbitron
+- dec: 用Orbitron跟踪卫星的轨道位置，还可控制SDR多普勒频率等
+- zh-CN: True
+- icon: Orbitron.gif
+- ver: 汉化版
+- platform: Win
+- url: http://www.stoff.pl/orbitron/summary.php?chs
+- related-url: https://www.bilibili.com/video/BV1RT4y137Tm
+### MMANA-GAL_Basic
+- name: MMANA-GAL_Basic
+- dec: 简单的线天线仿真软件
+- zh-CN: True
+- icon: MMANA-GAL_Basic.png
+- ver: V1.2.0.20
+- platform: Win
+- url: https://www.kechuang.org/t/45128?post=399099
+- related-url: https://www.bilibili.com/video/BV14J411Q7TQ
+### 天线计算器
+- name: 天线计算器
+- dec: 一款简单的用于计算天线参数的软件
+- zh-CN: True
+- icon: 天线计算器.png
+- ver: V0.1
+- platform: Win
+- url: https://pan.quark.cn/s/b926024e14bc
+- related-url: 
+### TQSL
+- name: TQSL
+- dec: TQSL是LoTW的上传日志的客户端
+- zh-CN: True
+- icon: TQSL.png
+- ver: lasted(最新)
+- platform: Win Mac Linux
+- url: https://www.arrl.org/tqsl-download
+- related-url: https://zhuanlan.zhihu.com/p/597571473
+### GridTracker
+- name: GridTracker
+- dec: GridTracker 是一个业余无线电信息仓库，常用来追踪网格
+- zh-CN: True
+- icon: GridTracker.png
+- ver: lasted(最新)
+- platform: Win Mac Linux
+- url: https://gridtracker.org/index.php/downloads/gridtracker-downloads
+- related-url: https://forum.hamcq.cn/d/319/6
+### wsjtx
+- name: wsjtx
+- dec: FT8常用软件
+- zh-CN: True
+- icon: wsjtx.png
+- ver: lasted(最新)
+- platform: Win Mac Linux
+- url: https://sourceforge.net/proje cts/wsjt/
+- related-url: https://www.bilibili.com/video/BV1qs411K7kU
+### RX-SSTV
+- name: RX-SSTV
+- dec: SSTV音频解码软件
+- zh-CN: False
+- icon: RX-SSTV.png
+- ver: V1.0.6
+- platform: Win
+- url: https://www.qsl.net/on6mu/download/Setup_RXSSTV.exe
+- related-url: https://www.bilibili.com/video/BV1LE411v7BL
+### Lakey
+- name: Lakey
+- dec: Lakey是一款摩尔斯电码发报练习软件
+- zh-CN: True
+- icon: Lakey.png
+- ver: V2.0
+- platform: Win
+- url: https://pan.quark.cn/s/0f6b9f981947
+- related-url: https://www.bilibili.com/video/av669651273
+### SDRSharp
+- name: SDRSharp
+- dec: SDRSharp是一款SDR软件。建议找集成插件的包下载方便点
+- zh-CN: False
+- icon: SDRSharp.png
+- ver: lasted(最新)
+- platform: Win
+- url: https://airspy.com/download/
+- related-url: https://www.bilibili.com/read/cv22473582/
+### HDSDR
+- name: HDSDR
+- dec: HDSDR是一款SDR软件
+- zh-CN: False
+- icon: HDSDR.png
+- ver: lasted(最新)
+- platform: Win
+- url: http://www.hdsdr.de/download/HDSDR_install.exe
+- related-url: https://zhuanlan.zhihu.com/p/685447101
+### Zadig
+- name: Zadig
+- dec: Zadig是一个USB驱动程序安装工具，用于SDR设备的驱动安装
+- zh-CN: False
+- icon: Zadig.png
+- ver: V2.5
+- platform: Win
+- url: https://pan.quark.cn/s/b138acffe2b6
+- related-url: https://zadig.akeo.ie/downloads/
+### WXtoImg
+- name: WXtoImg
+- dec: 用于接收和处理气象卫星图像，请同时下载Keppler Updater更新卫星数据
+- zh-CN: False
+- icon: WXtoImg.png
+- ver: lasted(最新)
+- platform: Win Linux Mac
+- url: https://www.wraase.de/wxtoimg/#downloads
+- related-url: https://www.wraase.de/wxtoimg/#keplers-update
+### Keppler Updater
+- name: Keppler Updater
+- dec: 用于更新WXtoImg卫星轨道数据的软件
+- zh-CN: False
+- icon: Keppler Updater.png
+- ver: V1.0
+- platform: Win
+- url: https://www.wraase.de/download/wxtoimg/Keplers-Updater.zip
+- related-url: https://www.wraase.de/wxtoimg/#keplers-update
+### PDW
+- name: PDW
+- dec: PDW是一个开源POCSAG解码软件，可配合SDR接收火车预警信号等
+- zh-CN: False
+- icon: PDW.png
+- ver: lasted(最新)
+- platform: Win
+- url: https://www.discriminator.nl/pdw/index-en.html
+- related-url: https://www.rtl-sdr.com/rtl-sdr-tutorial-pocsag-pager-decoding/

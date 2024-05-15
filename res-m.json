@@ -131,7 +131,7 @@
   },
   "Robot36": {
     "name": "Robot36",
-    "dec": "解码SSTV音频，并保存解码的图片",
+    "dec": "解码SSTV音频，并保存解码的图片",  
     "zh-CN": true,
     "icon": "Robot36.png",
     "ver": "V1.48",
