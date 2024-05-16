@@ -24,4 +24,11 @@
 - ver: .
 - platform: ALL
 - url: https://amsat.org/status/index.php
-
+### APRSTV
+- name: APRS.TV
+- dec: 国内可用的APRS网站，UI好看
+- zh-CN: true
+- icon: http://aprs.tv/favicon.ico
+- ver: .
+- platform: ALL
+- url: http://aprs.tv/
