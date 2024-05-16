@@ -147,5 +147,35 @@
         "platform": "Win",
         "url": "https://www.discriminator.nl/pdw/index-en.html",
         "related-url": "https://www.rtl-sdr.com/rtl-sdr-tutorial-pocsag-pager-decoding/"
+    },
+    "greentnc.zip": {
+        "name": "greentnc.zip",
+        "dec": "greencube（gc）相关，soundmodem和gc的一个终端",
+        "zh-CN": false,
+        "icon": "greentnc.zip.png",
+        "ver": "lasted(最新)",
+        "platform": "Win",
+        "url": "http://uz7.ho.ua/modem_beta/greentnc.zip",
+        "related-url": "http://uz7.ho.ua/packetradio.htm"
+    },
+    "gc_terminal": {
+        "name": "gc terminal",
+        "dec": "greencube（gc）相关，gc的另一个一个终端",
+        "zh-CN": false,
+        "icon": "gc_terminal.png",
+        "ver": "V1.0.0.90",
+        "platform": "Win",
+        "url": "https://www.moonbounce.dk/onewebmedia/Greencube%20Terminal%20-%201.0.0.90.zip",
+        "related-url": "https://www.moonbounce.dk/hamradio/greencube-terminal-program.html"
+    },
+    "EME_planner": {
+        "name": "EME planner",
+        "dec": "EME planner用于计算时间与月球过境角度的关系、太阳噪声，月球赤纬等数据",
+        "zh-CN": false,
+        "icon": "EME_planner.png",
+        "ver": "V2.1.8",
+        "platform": "Win",
+        "url": "https://www.vk5dj.com/EMEPlanner%20Ver%202.18%20Install.zip",
+        "related-url": "https://www.vk5dj.com/doug.html"
     }
 }
