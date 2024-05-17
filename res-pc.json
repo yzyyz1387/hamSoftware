@@ -148,9 +148,9 @@
         "url": "https://www.discriminator.nl/pdw/index-en.html",
         "related-url": "https://www.rtl-sdr.com/rtl-sdr-tutorial-pocsag-pager-decoding/"
     },
-    "greentnc.zip": {
-        "name": "greentnc.zip",
-        "dec": "greencube（gc）相关，soundmodem和gc的一个终端",
+    "GC Digipeater": {
+        "name": "GC Digipeater",
+        "dec": "greencube（gc）相关，内含GC的调制解调软件soundmodem以及一个终端",
         "zh-CN": false,
         "icon": "greentnc.zip.png",
         "ver": "lasted(最新)",
@@ -160,7 +160,7 @@
     },
     "gc_terminal": {
         "name": "gc terminal",
-        "dec": "greencube（gc）相关，gc的另一个一个终端",
+        "dec": "greencube（gc）相关，gc的另一个终端",
         "zh-CN": false,
         "icon": "gc_terminal.png",
         "ver": "V1.0.0.90",
@@ -170,7 +170,7 @@
     },
     "EME_planner": {
         "name": "EME planner",
-        "dec": "EME planner用于计算时间与月球过境角度的关系、太阳噪声，月球赤纬等数据",
+        "dec": "用于计算时间与月球过境角度的关系、太阳噪声，月球赤纬等数据",
         "zh-CN": false,
         "icon": "EME_planner.png",
         "ver": "V2.1.8",
