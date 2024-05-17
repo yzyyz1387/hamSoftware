@@ -61,18 +61,18 @@
 - name: df2et.de/tevel/
 - dec: 展示TEVEL系列卫星的转发器状态
 - zh-CN: false
-- icon: https://df2et.de/tevel/favicon.ico
+- icon: https://www.df2et.de/tevel/favicon.ico
 - ver: .
 - platform: WEB
-- url: https://df2et.de/tevel/
+- url: https://www.df2et.de/tevel/
 ### 卫星日志网
 - name: 卫星日志网
 - dec: 卫星日志网站，俄罗斯电台常在上面记录日志
 - zh-CN: false
-- icon: https://aar29.free.fr/favicon.ico
+- icon: http://aar29.free.fr/favicon.ico
 - ver: .
 - platform: WEB
-- url: https://aar29.free.fr/sat/
+- url: http://aar29.free.fr/sat/indexlogin.html
 ### 卫星通联预测
 - name: 卫星通联预测
 - dec: 预测网格之间通过某些卫星通联的可能性
