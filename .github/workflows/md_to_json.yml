@@ -18,7 +18,7 @@ jobs:
         run: python fmtCvrs.py
       - name: 运行脚本2
         run: |
-         pip initall httpx
+         pip install httpx
          python getStatus.py
 
       - name: 提交更改

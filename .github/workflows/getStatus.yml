@@ -18,7 +18,7 @@ jobs:
 
       - name: 运行脚本
         run: |
-         pip initall httpx
+         pip install httpx
          python getStatus.py
 
       - name: 提交更改
