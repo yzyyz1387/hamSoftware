@@ -20,7 +20,7 @@ async def get_url_status_code(url):
             return response.status_code
     except Exception as e:
         print(f'Error: {e}')
-        return 0
+        return "unknown"
 
 if __name__ == "__main__":
     import asyncio
