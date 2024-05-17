@@ -38,7 +38,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://lotw.arrl.org/lotwuser/default",
-        "status": 0
+        "status": "unknown"
     },
     "HAMCQ": {
         "name": "HAMCQ 社区",
@@ -80,7 +80,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://df2et.de/tevel/",
-        "status": 0
+        "status": "unknown"
     },
     "卫星日志网": {
         "name": "卫星日志网",
@@ -90,7 +90,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://aar29.free.fr/sat/",
-        "status": 0
+        "status": "unknown"
     },
     "卫星通联预测": {
         "name": "卫星通联预测",
