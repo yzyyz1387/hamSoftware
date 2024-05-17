@@ -1,7 +1,6 @@
 name: 获取网站状态
 
 on:
-  push:
   schedule:
     - cron: '0 23 * * *'
 
