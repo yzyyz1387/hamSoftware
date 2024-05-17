@@ -133,9 +133,9 @@
 - platform: Win
 - url: https://www.discriminator.nl/pdw/index-en.html
 - related-url: https://www.rtl-sdr.com/rtl-sdr-tutorial-pocsag-pager-decoding/
-### greentnc.zip
-- name: greentnc.zip
-- dec: greencube（gc）相关，soundmodem和gc的一个终端
+### GC Digipeater
+- name: GC Digipeater
+- dec: greencube（gc）相关，内含GC的调制解调软件soundmodem以及一个终端
 - zh-CN: False
 - icon: greentnc.zip.png
 - ver: lasted(最新)
@@ -144,7 +144,7 @@
 - related-url: http://uz7.ho.ua/packetradio.htm
 ### gc_terminal
 - name: gc terminal
-- dec: greencube（gc）相关，gc的另一个一个终端
+- dec: greencube（gc）相关，gc的另一个终端
 - zh-CN: False
 - icon: gc_terminal.png
 - ver: V1.0.0.90
@@ -153,7 +153,7 @@
 - related-url: https://www.moonbounce.dk/hamradio/greencube-terminal-program.html
 ### EME_planner
 - name: EME planner
-- dec: EME planner用于计算时间与月球过境角度的关系、太阳噪声，月球赤纬等数据
+- dec: 用于计算时间与月球过境角度的关系、太阳噪声，月球赤纬等数据
 - zh-CN: False
 - icon: EME_planner.png
 - ver: V2.1.8
