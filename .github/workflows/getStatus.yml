@@ -1,0 +1,37 @@
+name: 获取网站状态
+
+on:
+  push:
+  schedule:
+    - cron: '0 23 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  job1:
+    name: 获取网站状态
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 读取仓库
+        uses: actions/checkout@v4
+
+      - name: 运行脚本
+        run: |
+         pip initall httpx
+         python getStatus.py
+
+      - name: 提交更改
+        run: |
+          git config --global user.email ${{ secrets.EMAIL }}
+          git config --global user.name ${{ secrets.NAME }}          
+          git add .
+          git commit -m ":memo: write status code to JSON"
+      - name: PUSH
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{secrets.GH_TOKEN}}
+      - name: 刷新缓存
+        run: |
+          curl -X GET https://jsd.seeku.site/yzyyz1387/hamSoftware/res-web.json

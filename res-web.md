@@ -14,6 +14,23 @@
 - ver: V1.0
 - platform: WEB
 - url: https://s.seeku.site/
+### QRZ.COM
+- name: QRZ.COM
+- dec: 国际知名呼号数据库
+- zh-CN: false
+- icon: https://www.qrz.com/favicon.ico
+- ver: .
+- platform: WEB
+- url: https://www.qrz.com/
+- related-url: https://forums.qrz.com/index.php
+### LOTW
+- name: ARRL LoTW
+- dec: ARRL日志确认网站
+- zh-CN: false
+- icon: https://lotw.arrl.org/favicon.ico
+- ver: .
+- platform: WEB
+- url: https://lotw.arrl.org/lotwuser/default
 ### HAMCQ
 - name: HAMCQ 社区
 - dec: 一个基于Flarum的中文社区
@@ -40,14 +57,54 @@
 - ver: .
 - platform: WEB
 - url: https://amsat.org/status/index.php
+### tevel
+- name: df2et.de/tevel/
+- dec: 展示TEVEL系列卫星的转发器状态
+- zh-CN: false
+- icon: https://df2et.de/tevel/favicon.ico
+- ver: .
+- platform: WEB
+- url: https://df2et.de/tevel/
+### 卫星日志网
+- name: 卫星日志网
+- dec: 卫星日志网站，俄罗斯电台常在上面记录日志
+- zh-CN: false
+- icon: https://aar29.free.fr/favicon.ico
+- ver: .
+- platform: WEB
+- url: https://aar29.free.fr/sat/
+### 卫星通联预测
+- name: 卫星通联预测
+- dec: 预测网格之间通过某些卫星通联的可能性
+- zh-CN: false
+- icon: https://www.satmatch.com/favicon.ico
+- ver: .
+- platform: WEB
+- url: https://www.satmatch.com/
 ### APRSTV
 - name: APRS.TV
 - dec: 国内可用的APRS网站，UI好看
 - zh-CN: true
-- icon: http://aprs.tv/favicon.ico
+- icon: https://aprs.tv/favicon.ico
 - ver: .
 - platform: WEB
-- url: http://aprs.tv/
+- url: https://aprs.tv/
+### APRS.fi
+- name: APRS.fi
+- dec: 国际APRS网站
+- zh-CN: false
+- icon: https://aprs.fi/favicon.ico
+- ver: .
+- platform: WEB
+- url: https://aprs.fi/
+### 中继查询网
+- name: 中继查询网
+- dec: 中国中继查询网站
+- zh-CN: true
+- icon: http://weixin.cqcqcq.cn/favicon.ico
+- ver: .
+- platform: WEB
+- url: http://weixin.cqcqcq.cn/
 ### PSK Reporter
 - name: PSK Reporter
 - dec: 是一款强大的网站，用于监控世界各地的FT8、JT65或PSK信号
@@ -56,3 +113,27 @@
 - ver: .
 - platform: WEB
 - url: https://pskreporter.info/pskmap.html
+### AzimuthalMap
+- name: 制作方位角图
+- dec: 为地球上的任何位置创建方位角图
+- zh-CN: false
+- icon: https://ns6t.net/favicon.ico
+- ver: .
+- platform: WEB
+- url: https://ns6t.net/azimuth/azimuth.html
+### EME聊天室
+- name: EME聊天室
+- dec: EME聊天室，主要频段为432M和1296M
+- zh-CN: false
+- icon: https://www.chris.org/favicon.ico
+- ver: .
+- platform: WEB
+- url: https://logger.hb9q.ch/
+### lcwo.net
+- name: LCWO CW学习网站
+- dec: 欢迎来到 LCWO.net - 在线学习莫尔斯电码!
+- zh-CN: true
+- icon: https://lcwo.net/favicon.ico
+- ver: .
+- platform: WEB
+- url: https://lcwo.net/
