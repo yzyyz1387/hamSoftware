@@ -14,12 +14,8 @@ jobs:
       - name: 读取仓库
         uses: actions/checkout@v4
 
-      - name: 运行脚本1
+      - name: 运行脚本
         run: python fmtCvrs.py
-      - name: 运行脚本2
-        run: |
-         pip install httpx
-         python getStatus.py
 
       - name: 提交更改
         run: |
@@ -31,7 +27,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{secrets.GH_TOKEN}}
-      - name: 刷新缓存
-        run: |
-          curl -X GET https://jsd.seeku.site/yzyyz1387/hamSoftware/res-web.json
 
