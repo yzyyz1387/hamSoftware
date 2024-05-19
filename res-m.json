@@ -155,5 +155,25 @@
         "platform": "Android",
         "url": "http://www.w1hkj.com/files/AndFlmsg/",
         "related-url": "https://www.bilibili.com/video/BV1654y1h7N7"
+    },
+    "mors": {
+        "name": "mors",
+        "dec": "电码练习软件，软件给出单词，用户拍法电码",
+        "zh-CN": true,
+        "icon": "mors.png",
+        "ver": "V3.0.8",
+        "platform": "Android",
+        "url": "https://pan.quark.cn/s/72d7a2c8472f",
+        "contributor": "BI4KSR"
+    },
+    "摩尔斯电码练习": {
+        "name": "摩尔斯电码练习",
+        "dec": "Koch方法电码练习、发报辅助",
+        "zh-CN": true,
+        "icon": "摩尔斯电码练习.png",
+        "ver": "V4.4",
+        "platform": "Android",
+        "url": "https://pan.quark.cn/s/ecd12f667f50",
+        "contributor": "BI4KSR"
     }
 }
