@@ -175,5 +175,46 @@
         "platform": "Android",
         "url": "https://pan.quark.cn/s/ecd12f667f50",
         "contributor": "BI4KSR"
+    },
+    "Morse Code Engineer": {
+        "name": "Morse Code Engineer",
+        "dec": "电码拍发软件，支持音频、视频解码",
+        "zh-CN": false,
+        "icon": "MorseCodeEngineer.png",
+        "ver": "V5.0",
+        "platform": "Android",
+        "url": "https://pan.quark.cn/s/0350c06bcdcf",
+        "contributor": "BI4KSR"
+    },
+    "DXPocket": {
+        "name": "DXPocket",
+        "dec": "用于监控DX Summit网站上的DX Spot信息",
+        "zh-CN": false,
+        "icon": "DXPocket.png",
+        "ver": "V5.0",
+        "platform": "Android",
+        "url": "https://pan.quark.cn/s/177ce2e0a4cf",
+        "related-url": "http://www.dxpocket.com/",
+        "contributor": "BI4KSR"
+    },
+    "HF Weather Fax": {
+        "name": "HF Weather Fax",
+        "dec": "解码气象传真",
+        "zh-CN": false,
+        "icon": "HFWeatherFax.png",
+        "ver": "V1.05",
+        "platform": "Android",
+        "url": "https://pan.quark.cn/s/ef61d3e0d40b",
+        "contributor": "BI4KSR"
+    },
+    "DroidRTTY": {
+        "name": "DroidRTTY",
+        "dec": "RTTY解码软件",
+        "zh-CN": false,
+        "icon": "DroidRTTY.png",
+        "ver": "V2.12",
+        "platform": "Android",
+        "url": "https://pan.quark.cn/s/c1737158f112",
+        "contributor": "BI4KSR"
     }
 }
