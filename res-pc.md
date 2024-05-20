@@ -160,6 +160,23 @@
 - platform: Win
 - url: https://www.vk5dj.com/EMEPlanner%20Ver%202.18%20Install.zip
 - related-url: https://www.vk5dj.com/doug.html
-
+### N1MM
+- name: N1MM
+- dec: N1MM是一个业余无线电竞赛软件
+- zh-CN: False
+- icon: N1MM.png
+- ver: lasted(最新)
+- platform: Win
+- url: https://n1mmwp.hamdocs.com/downloads/#elf_l1_UHJvZ3JhbSBGaWxlcy9GdWxsIEluc3RhbGw
+- related-url: https://n1mmwp.hamdocs.com/downloads/update-history/
+### N1MM中文补丁
+- name: N1MM中文补丁
+- dec: N1MM的中文补丁
+- zh-CN: True
+- icon: N1MM.png
+- ver: .
+- platform: Win
+- url: https://pan.quark.cn/s/ab6434950c9b
+- related-url: https://www.hellocq.net/forum/read.php?tid=312580
 
 
