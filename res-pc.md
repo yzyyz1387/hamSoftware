@@ -32,7 +32,7 @@
 - icon: 天线计算器.png
 - ver: V0.1
 - platform: Win
-- url: https://pan.quark.cn/s/b926024e14bc
+- url: https://www.123pan.com/s/lQn5jv-9MhVH.html
 - related-url: 
 ### TQSL
 - name: TQSL
@@ -77,7 +77,7 @@
 - icon: Lakey.png
 - ver: V2.0
 - platform: Win
-- url: https://pan.quark.cn/s/0f6b9f981947
+- url: https://www.123pan.com/s/lQn5jv-AMhVH.html
 - related-url: https://www.bilibili.com/video/av669651273
 ### SDRSharp
 - name: SDRSharp
@@ -104,7 +104,7 @@
 - icon: Zadig.png
 - ver: V2.5
 - platform: Win
-- url: https://pan.quark.cn/s/b138acffe2b6
+- url: https://www.123pan.com/s/lQn5jv-QMhVH.html
 - related-url: https://zadig.akeo.ie/downloads/
 ### WXtoImg
 - name: WXtoImg
@@ -176,7 +176,7 @@
 - icon: N1MM.png
 - ver: .
 - platform: Win
-- url: https://pan.quark.cn/s/ab6434950c9b
+- url: https://www.123pan.com/s/lQn5jv-HMhVH.html
 - related-url: https://www.hellocq.net/forum/read.php?tid=312580
 
 

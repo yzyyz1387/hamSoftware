@@ -5,7 +5,7 @@
 - icon: 智谱.png
 - ver: V1.5.9
 - platform: Android iOS
-- url: https://pan.quark.cn/s/cf1f17ca08ef
+- url: https://www.123pan.com/s/lQn5jv-FMhVH.html
 - related-url: http://82.157.138.16:8091/CRAC/crac/contact.html
 ### Look4Sat
 - name: Look4Sat
@@ -14,7 +14,7 @@
 - icon: Look4Sat.webp
 - ver: V3.1.4
 - platform: Android
-- url: https://pan.quark.cn/s/66870ab92a99
+- url: https://www.123pan.com/s/lQn5jv-oMhVH.html
 - related-url: https://github.com/rt-bishop/Look4Sat
 ### Look4Sat-Old
 - name: Look4Sat
@@ -23,7 +23,7 @@
 - icon: Look4Sat.webp
 - ver: V2.6.0
 - platform: Android
-- url: https://pan.quark.cn/s/b73ebcb776d4
+- url: https://www.123pan.com/s/lQn5jv-1MhVH.html
 - related-url: https://github.com/rt-bishop/Look4Sat
 ### ISS-Detector
 - name: ISS-Detector 专业版
@@ -32,16 +32,16 @@
 - icon: ISS-Detector.png
 - ver: V2.04.23 Pro
 - platform: Android
-- url: https://pan.quark.cn/s/0f7013659f56
+- url: https://www.123pan.com/s/lQn5jv-IMhVH.html
 - related-url: https://www.issdetector.com/
 ### Heaven-Above Pro
 - name: Heaven-Above 专业版
 - dec: 一款天体追踪软件，不太适合打卫星用
 - zh-CN: True
 - icon: Heaven-Above.png
-- ver: V1.13
+- ver: V1.61
 - platform: Android
-- url: https://pan.quark.cn/s/8e835459eafc
+- url: https://www.123pan.com/s/lQn5jv-MMhVH.html
 - related-url: https://www.heavens-above.com/
 ### Morse Expert
 - name: Morse Expert
@@ -50,7 +50,7 @@
 - icon: Morse Expert.png
 - ver: V1.13
 - platform: Android
-- url: https://pan.quark.cn/s/88cb6ef74411
+- url: https://www.123pan.com/s/lQn5jv-aMhVH.html
 - related-url: https://ve3nea.github.io/MorseExpert/
 ### Morse Code Reader
 - name: Morse Code Reader (小海豹)
@@ -59,7 +59,7 @@
 - icon: Morse Code Reader.png
 - ver: V1.0
 - platform: Android
-- url: https://pan.quark.cn/s/0be06892ab55
+- url: https://www.123pan.com/s/lQn5jv-BMhVH.html
 - related-url: 
 ### CW Studio
 - name: CW Studio
@@ -68,7 +68,7 @@
 - icon: CW Studio.png
 - ver: V1.6.3
 - platform: Android
-- url: https://pan.quark.cn/s/5999a95b1bf1
+- url: https://www.123pan.com/s/lQn5jv-JMhVH.html
 - related-url: 
 ### NanoVNA WebApp
 - name: NanoVNA WebApp
@@ -77,7 +77,7 @@
 - icon: NanoVNA WebApp.png
 - ver: V1.4
 - platform: Android
-- url: https://pan.quark.cn/s/f5fbbf108338
+- url: https://www.123pan.com/s/lQn5jv-fMhVH.html
 - related-url: https://cho45.stfuawsc.com/NanoVNA/
 ### APRSdroid
 - name: APRSdroid
@@ -113,7 +113,7 @@
 - icon: SSTV Encoder.png
 - ver: V2.10
 - platform: Android
-- url: https://pan.quark.cn/s/a56b29116841
+- url: https://www.123pan.com/s/lQn5jv-4MhVH.html 
 - related-url: https://github.com/olgamiller/SSTVEncoder2
 ### Robot36
 - name: Robot36
@@ -122,7 +122,7 @@
 - icon: Robot36.png
 - ver: V1.48
 - platform: Android
-- url: https://pan.quark.cn/s/92ead18c3d42
+- url: https://www.123pan.com/s/lQn5jv-mMhVH.html
 - related-url: https://github.com/xdsopl/robot36
 ### 南山对讲
 - name: 南山对讲
@@ -149,7 +149,7 @@
 - icon: mors.png
 - ver: V3.0.8
 - platform: Android
-- url: https://pan.quark.cn/s/72d7a2c8472f
+- url: https://www.123pan.com/s/lQn5jv-EMhVH.html
 - contributor: BI4KSR
 ### 摩尔斯电码练习
 - name: 摩尔斯电码练习
@@ -158,7 +158,7 @@
 - icon: 摩尔斯电码练习.png
 - ver: V4.4
 - platform: Android
-- url: https://pan.quark.cn/s/ecd12f667f50
+- url: https://www.123pan.com/s/lQn5jv-kMhVH.html
 - contributor: BI4KSR
 ### Morse Code Engineer
 - name: Morse Code Engineer
@@ -167,7 +167,7 @@
 - icon: MorseCodeEngineer.png
 - ver: V5.0
 - platform: Android
-- url: https://pan.quark.cn/s/0350c06bcdcf
+- url: https://www.123pan.com/s/lQn5jv-xMhVH.html
 - contributor: BI4KSR
 ### DXPocket
 - name: DXPocket
@@ -176,7 +176,7 @@
 - icon: DXPocket.png
 - ver: V5.0
 - platform: Android
-- url: https://pan.quark.cn/s/177ce2e0a4cf
+- url: https://www.123pan.com/s/lQn5jv-gMhVH.html
 - related-url: http://www.dxpocket.com/
 - contributor: BI4KSR
 ### HF Weather Fax
@@ -186,7 +186,7 @@
 - icon: HFWeatherFax.png
 - ver: V1.05
 - platform: Android
-- url: https://pan.quark.cn/s/ef61d3e0d40b
+- url: https://www.123pan.com/s/lQn5jv-wMhVH.html
 - contributor: BI4KSR
 ### DroidRTTY
 - name: DroidRTTY
@@ -195,5 +195,5 @@
 - icon: DroidRTTY.png
 - ver: V2.12
 - platform: Android
-- url: https://pan.quark.cn/s/c1737158f112
+- url: https://www.123pan.com/s/lQn5jv-pMhVH.html
 - contributor: BI4KSR
