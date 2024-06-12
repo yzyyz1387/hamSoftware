@@ -65,8 +65,18 @@
         "icon": "wsjtx.png",
         "ver": "lasted(最新)",
         "platform": "Win Mac Linux",
-        "url": "https://sourceforge.net/proje cts/wsjt/",
+        "url": "https://sourceforge.net/projects/wsjt/",
         "related-url": "https://www.bilibili.com/video/BV1qs411K7kU"
+    },
+    "JTDX": {
+        "name": "JTDX",
+        "dec": "在 WSJT 开源项目的基础上二次开发,更好用",
+        "zh-CN": true,
+        "icon": "wsjtx.png",
+        "ver": "lasted(最新)",
+        "platform": "Win Mac Linux",
+        "url": "https://pan.baidu.com/s/1wgcH8tYBOTyVT3sNp1etQA?pwd=3OOX",
+        "related-url": "https://forum.hamcq.cn/d/318"
     },
     "RX-SSTV": {
         "name": "RX-SSTV",
