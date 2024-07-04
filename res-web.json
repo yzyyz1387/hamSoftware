@@ -100,7 +100,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://www.satmatch.com/",
-        "status": "unknown"
+        "status": 200
     },
     "APRSTV": {
         "name": "APRS.TV",
