@@ -7,7 +7,7 @@
         "ver": "V1.0",
         "platform": "WEB",
         "url": "https://g.seeku.site/",
-        "status": "unknown"
+        "status": 200
     },
     "资源合集": {
         "name": "HAM资源合集",
@@ -160,7 +160,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://logger.hb9q.ch/",
-        "status": "unknown"
+        "status": 200
     },
     "lcwo.net": {
         "name": "LCWO CW学习网站",
