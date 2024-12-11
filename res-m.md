@@ -120,9 +120,9 @@
 - dec: 解码SSTV音频，并保存解码的图片
 - zh-CN: True
 - icon: Robot36.png
-- ver: V1.48
+- ver: V2.14
 - platform: Android
-- url: https://www.123pan.com/s/lQn5jv-mMhVH.html
+- url: https://www.123865.com/s/lQn5jv-LW1VH
 - related-url: https://github.com/xdsopl/robot36
 ### 南山对讲
 - name: 南山对讲
