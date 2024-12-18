@@ -60,7 +60,7 @@
         "platform": "WEB",
         "url": "https://www.cqid.cn/",
         "related-url": "https://www.cqid.cn/news/article",
-        "status": 200
+        "status": "unknown"
     },
     "AMSAT": {
         "name": "AMSAT",
@@ -110,7 +110,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://aprs.tv/",
-        "status": 200
+        "status": "unknown"
     },
     "APRS.fi": {
         "name": "APRS.fi",
