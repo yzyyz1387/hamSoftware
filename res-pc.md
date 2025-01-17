@@ -192,8 +192,8 @@
 - dec: 模拟CW通联的软件，学CW必备
 - zh-CN: False
 - icon: MorseRunner.png
-- ver: V1.85.1
+- ver: V1.72
 - platform: Win
-- url: https://www.123865.com/s/lQn5jv-SL1VH
+- url: https://www.123865.com/s/lQn5jv-7L1VH
 - related-url: https://forum.hamcq.cn/d/3792
 
