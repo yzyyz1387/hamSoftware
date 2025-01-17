@@ -194,6 +194,6 @@
 - icon: MorseRunner.png
 - ver: v1.75beta20
 - platform: Win
-- url: https://www.123865.com/s/lQn5jv-bL1VH
+- url: https://www.123865.com/s/lQn5jv-G51VH
 - related-url: https://forum.hamcq.cn/d/3792
 
