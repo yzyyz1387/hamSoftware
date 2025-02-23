@@ -150,7 +150,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://ns6t.net/azimuth/azimuth.html",
-        "status": "unknown"
+        "status": 200
     },
     "EME聊天室": {
         "name": "EME聊天室",
