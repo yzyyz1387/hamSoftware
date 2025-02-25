@@ -144,7 +144,7 @@
 - related-url: https://www.bilibili.com/video/BV1654y1h7N7
 ### mors
 - name: mors
-- dec: 电码练习软件，软件给出单词，用户拍法电码
+- dec: cw电码练习软件，软件给出单词，用户拍法电码
 - zh-CN: True
 - icon: mors.png
 - ver: V3.0.8
@@ -153,7 +153,7 @@
 - contributor: BI4KSR
 ### 摩尔斯电码练习
 - name: 摩尔斯电码练习
-- dec: Koch方法电码练习、发报辅助
+- dec: Koch方法电码练习、cw发报辅助
 - zh-CN: True
 - icon: 摩尔斯电码练习.png
 - ver: V4.4
@@ -197,12 +197,3 @@
 - platform: Android
 - url: https://www.123pan.com/s/lQn5jv-pMhVH.html
 - contributor: BI4KSR
-### 摩尔斯电码练习
-- name: 摩尔斯电码练习
-- dec: CW发报辅助，Koch练习
-- zh-CN: True
-- icon: 摩尔斯电码练习.png
-- ver: V4.4
-- platform: Android
-- url: https://www.123912.com/s/lQn5jv-gM4VH
-- contributor: BD8CWG
