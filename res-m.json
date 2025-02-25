@@ -168,13 +168,13 @@
     },
     "摩尔斯电码练习": {
         "name": "摩尔斯电码练习",
-        "dec": "Koch方法电码练习、发报辅助",
+        "dec": "CW发报辅助，Koch练习",
         "zh-CN": true,
         "icon": "摩尔斯电码练习.png",
         "ver": "V4.4",
         "platform": "Android",
-        "url": "https://www.123pan.com/s/lQn5jv-kMhVH.html",
-        "contributor": "BI4KSR"
+        "url": "https://www.123912.com/s/lQn5jv-gM4VH",
+        "contributor": "BD8CWG"
     },
     "Morse Code Engineer": {
         "name": "Morse Code Engineer",
