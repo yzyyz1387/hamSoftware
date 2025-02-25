@@ -158,7 +158,7 @@
     },
     "mors": {
         "name": "mors",
-        "dec": "电码练习软件，软件给出单词，用户拍法电码",
+        "dec": "cw电码练习软件，软件给出单词，用户拍法电码",
         "zh-CN": true,
         "icon": "mors.png",
         "ver": "V3.0.8",
@@ -168,13 +168,13 @@
     },
     "摩尔斯电码练习": {
         "name": "摩尔斯电码练习",
-        "dec": "CW发报辅助，Koch练习",
+        "dec": "Koch方法电码练习、cw发报辅助",
         "zh-CN": true,
         "icon": "摩尔斯电码练习.png",
         "ver": "V4.4",
         "platform": "Android",
-        "url": "https://www.123912.com/s/lQn5jv-gM4VH",
-        "contributor": "BD8CWG"
+        "url": "https://www.123pan.com/s/lQn5jv-kMhVH.html",
+        "contributor": "BI4KSR"
     },
     "Morse Code Engineer": {
         "name": "Morse Code Engineer",
