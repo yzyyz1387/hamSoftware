@@ -197,3 +197,12 @@
 - platform: Android
 - url: https://www.123pan.com/s/lQn5jv-pMhVH.html
 - contributor: BI4KSR
+### 摩尔斯电码练习
+- name: 摩尔斯电码练习
+- dec: CW发报辅助，Koch练习
+- zh-CN: True
+- icon: 摩尔斯电码练习.png
+- ver: V4.4
+- platform: Android
+- url: https://www.123912.com/s/lQn5jv-gM4VH
+- contributor: BD8CWG
