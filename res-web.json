@@ -49,7 +49,7 @@
         "platform": "WEB",
         "url": "https://forum.hamcq.cn/",
         "related-url": "https://forum.hamcq.cn/p/14-app-hamcq",
-        "status": 200
+        "status": "unknown"
     },
     "CQID": {
         "name": "cqid.cn",
@@ -60,7 +60,7 @@
         "platform": "WEB",
         "url": "https://www.cqid.cn/",
         "related-url": "https://www.cqid.cn/news/article",
-        "status": "unknown"
+        "status": 200
     },
     "AMSAT": {
         "name": "AMSAT",
