@@ -111,9 +111,9 @@
 - dec: 将图片转换为SSTV音频，可在软件内编辑图片上的文字
 - zh-CN: True
 - icon: SSTV Encoder.png
-- ver: V2.11
+- ver: V2.12
 - platform: Android
-- url: https://www.123865.com/s/lQn5jv-qW1VH 
+- url: https://www.123912.com/s/lQn5jv-8P4VH 
 - related-url: https://github.com/olgamiller/SSTVEncoder2
 ### Robot36
 - name: Robot36
