@@ -138,7 +138,7 @@
 - dec: 数传音频解码、转码软件
 - zh-CN: True
 - icon: AndFlmsg.png
-- ver: lasted(最新)
+- ver: lastest(最新)
 - platform: Android
 - url: http://www.w1hkj.com/files/AndFlmsg/
 - related-url: https://www.bilibili.com/video/BV1654y1h7N7

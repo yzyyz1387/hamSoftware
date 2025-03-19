@@ -3,7 +3,7 @@
 - dec: Gpredict 是一个实时卫星跟踪和轨道预测应用程序
 - zh-CN: False
 - icon: Gpredict.png
-- ver: lasted(最新)
+- ver: lastest(最新)
 - platform: Win
 - url: https://sourceforge.net/projects/gpredict/files/Gpredict/
 - related-url: https://www.dtrac.cn/doku.php?id=dtrac_gpredict
@@ -39,7 +39,7 @@
 - dec: TQSL是LoTW的上传日志的客户端
 - zh-CN: True
 - icon: TQSL.png
-- ver: lasted(最新)
+- ver: lastest(最新)
 - platform: Win Mac Linux
 - url: https://www.arrl.org/tqsl-download
 - related-url: https://zhuanlan.zhihu.com/p/597571473
@@ -48,7 +48,7 @@
 - dec: GridTracker 是一个业余无线电信息仓库，常用来追踪网格
 - zh-CN: True
 - icon: GridTracker.png
-- ver: lasted(最新)
+- ver: lastest(最新)
 - platform: Win Mac Linux
 - url: https://gridtracker.org/index.php/downloads/gridtracker-downloads
 - related-url: https://forum.hamcq.cn/d/319/6
@@ -57,7 +57,7 @@
 - dec: FT8常用软件
 - zh-CN: True
 - icon: wsjtx.png
-- ver: lasted(最新)
+- ver: lastest(最新)
 - platform: Win Mac Linux
 - url: https://sourceforge.net/projects/wsjt/
 - related-url: https://www.bilibili.com/video/BV1qs411K7kU
@@ -66,7 +66,7 @@
 - dec: 在 WSJT 开源项目的基础上二次开发,更好用
 - zh-CN: True
 - icon: wsjtx.png
-- ver: lasted(最新)
+- ver: lastest(最新)
 - platform: Win Mac Linux
 - url: https://pan.baidu.com/s/1wgcH8tYBOTyVT3sNp1etQA?pwd=3OOX
 - related-url: https://forum.hamcq.cn/d/318
@@ -93,7 +93,7 @@
 - dec: SDRSharp是一款SDR软件。建议找集成插件的包下载方便点
 - zh-CN: False
 - icon: SDRSharp.png
-- ver: lasted(最新)
+- ver: lastest(最新)
 - platform: Win
 - url: https://airspy.com/download/
 - related-url: https://www.bilibili.com/read/cv22473582/
@@ -102,7 +102,7 @@
 - dec: HDSDR是一款SDR软件
 - zh-CN: False
 - icon: HDSDR.png
-- ver: lasted(最新)
+- ver: lastest(最新)
 - platform: Win
 - url: http://www.hdsdr.de/download/HDSDR_install.exe
 - related-url: https://zhuanlan.zhihu.com/p/685447101
@@ -120,7 +120,7 @@
 - dec: 用于接收和处理气象卫星图像，请同时下载Keppler Updater更新卫星数据
 - zh-CN: False
 - icon: WXtoImg.png
-- ver: lasted(最新)
+- ver: lastest(最新)
 - platform: Win Linux Mac
 - url: https://www.wraase.de/wxtoimg/#downloads
 - related-url: https://www.wraase.de/wxtoimg/#keplers-update
@@ -138,7 +138,7 @@
 - dec: PDW是一个开源POCSAG解码软件，可配合SDR接收火车预警信号等
 - zh-CN: False
 - icon: PDW.png
-- ver: lasted(最新)
+- ver: lastest(最新)
 - platform: Win
 - url: https://www.discriminator.nl/pdw/index-en.html
 - related-url: https://www.rtl-sdr.com/rtl-sdr-tutorial-pocsag-pager-decoding/
@@ -147,7 +147,7 @@
 - dec: greencube（gc）相关，内含GC的调制解调软件soundmodem以及一个终端
 - zh-CN: False
 - icon: greentnc.zip.png
-- ver: lasted(最新)
+- ver: lastest(最新)
 - platform: Win
 - url: http://uz7.ho.ua/modem_beta/greentnc.zip
 - related-url: http://uz7.ho.ua/packetradio.htm
@@ -174,7 +174,7 @@
 - dec: N1MM是一个业余无线电竞赛软件
 - zh-CN: False
 - icon: N1MM.png
-- ver: lasted(最新)
+- ver: lastest(最新)
 - platform: Win
 - url: https://n1mmwp.hamdocs.com/downloads/#elf_l1_UHJvZ3JhbSBGaWxlcy9GdWxsIEluc3RhbGw
 - related-url: https://n1mmwp.hamdocs.com/downloads/update-history/
@@ -196,4 +196,13 @@
 - platform: Win
 - url: https://www.123865.com/s/lQn5jv-G51VH
 - related-url: https://forum.hamcq.cn/d/3792
+### RogerThat
+- name: RogerThat
+- dec: 向虚拟声卡发输送信令等自定义音频，适合在游戏中使用，沉浸式体验
+- zh-CN: True
+- icon: RogerThat.png
+- ver: v1.0.1-beta2
+- platform: Win
+- url: https://rt.yzyyz.top/
+- related-url: https://github.com/yzyyz1387/RogerThat
 
