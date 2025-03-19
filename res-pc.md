@@ -205,4 +205,13 @@
 - platform: Win
 - url: https://rt.yzyyz.top/
 - related-url: https://github.com/yzyyz1387/RogerThat
+### Smith
+- name: Smith
+- dec: 一款斯密斯圆图工具
+- zh-CN: False
+- icon: Smith.png
+- ver: v4.1
+- platform: Win
+- url: https://www.123912.com/s/lQn5jv-YuxVH
+- related-url: https://www.fritz.dellsperger.net/smith.html
 
