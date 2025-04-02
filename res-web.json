@@ -60,7 +60,7 @@
         "platform": "WEB",
         "url": "https://www.cqid.cn/",
         "related-url": "https://www.cqid.cn/news/article",
-        "status": "unknown"
+        "status": 200
     },
     "AMSAT": {
         "name": "AMSAT",
@@ -140,7 +140,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://pskreporter.info/pskmap.html",
-        "status": 403
+        "status": 200
     },
     "AzimuthalMap": {
         "name": "制作方位角图",
