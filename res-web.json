@@ -140,7 +140,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://pskreporter.info/pskmap.html",
-        "status": 200
+        "status": 403
     },
     "AzimuthalMap": {
         "name": "制作方位角图",
@@ -160,7 +160,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://logger.hb9q.ch/",
-        "status": 200
+        "status": "unknown"
     },
     "lcwo.net": {
         "name": "LCWO CW学习网站",
