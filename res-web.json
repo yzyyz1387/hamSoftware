@@ -38,7 +38,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://lotw.arrl.org/lotwuser/default",
-        "status": 200
+        "status": "unknown"
     },
     "HAMCQ": {
         "name": "HAMCQ 社区",
