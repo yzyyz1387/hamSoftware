@@ -7,7 +7,7 @@
         "ver": "V1.0",
         "platform": "WEB",
         "url": "https://g.seeku.site/",
-        "status": "unknown"
+        "status": 200
     },
     "资源合集": {
         "name": "HAM资源合集",
@@ -49,7 +49,7 @@
         "platform": "WEB",
         "url": "https://forum.hamcq.cn/",
         "related-url": "https://forum.hamcq.cn/p/14-app-hamcq",
-        "status": 200
+        "status": "unknown"
     },
     "CQID": {
         "name": "cqid.cn",
