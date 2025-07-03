@@ -7,7 +7,7 @@
         "ver": "V1.0",
         "platform": "WEB",
         "url": "https://g.seeku.site/",
-        "status": 200
+        "status": "unknown"
     },
     "资源合集": {
         "name": "HAM资源合集",
@@ -17,7 +17,7 @@
         "ver": "V1.0",
         "platform": "WEB",
         "url": "https://s.seeku.site/",
-        "status": 200
+        "status": "unknown"
     },
     "QRZ.COM": {
         "name": "QRZ.COM",
@@ -38,7 +38,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://lotw.arrl.org/lotwuser/default",
-        "status": "unknown"
+        "status": 200
     },
     "HAMCQ": {
         "name": "HAMCQ 社区",
@@ -170,6 +170,6 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://lcwo.net/",
-        "status": 200
+        "status": "unknown"
     }
 }
