@@ -170,6 +170,6 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://lcwo.net/",
-        "status": "unknown"
+        "status": 200
     }
 }
