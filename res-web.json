@@ -38,7 +38,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://lotw.arrl.org/lotwuser/default",
-        "status": 200
+        "status": "unknown"
     },
     "HAMCQ": {
         "name": "HAMCQ 社区",
@@ -90,7 +90,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "http://aar29.free.fr/sat/indexlogin.html",
-        "status": 200
+        "status": "unknown"
     },
     "卫星通联预测": {
         "name": "卫星通联预测",
