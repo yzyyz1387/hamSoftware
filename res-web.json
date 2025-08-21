@@ -7,7 +7,7 @@
         "ver": "V1.0",
         "platform": "WEB",
         "url": "https://g.seeku.site/",
-        "status": 200
+        "status": "unknown"
     },
     "资源合集": {
         "name": "HAM资源合集",
@@ -70,7 +70,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://amsat.org/status/index.php",
-        "status": 200
+        "status": "unknown"
     },
     "tevel": {
         "name": "df2et.de/tevel/",
