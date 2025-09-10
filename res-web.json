@@ -110,7 +110,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://aprs.tv/",
-        "status": "unknown"
+        "status": 200
     },
     "APRS.fi": {
         "name": "APRS.fi",
