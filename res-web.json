@@ -160,7 +160,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://logger.hb9q.ch/",
-        "status": "unknown"
+        "status": 200
     },
     "lcwo.net": {
         "name": "LCWO CW学习网站",
