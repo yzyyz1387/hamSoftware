@@ -70,7 +70,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://amsat.org/status/index.php",
-        "status": 403
+        "status": 200
     },
     "tevel": {
         "name": "df2et.de/tevel/",
@@ -170,6 +170,6 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://lcwo.net/",
-        "status": "unknown"
+        "status": 200
     }
 }
