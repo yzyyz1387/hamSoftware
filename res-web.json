@@ -49,7 +49,7 @@
         "platform": "WEB",
         "url": "https://forum.hamcq.cn/",
         "related-url": "https://forum.hamcq.cn/p/14-app-hamcq",
-        "status": 200
+        "status": 504
     },
     "CQID": {
         "name": "cqid.cn",
