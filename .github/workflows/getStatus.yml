@@ -20,13 +20,12 @@ jobs:
         run: |
          pip install httpx
          python getStatus.py
-
       - name: 提交更改
         run: |
           git config --global user.email ${{ secrets.EMAIL }}
           git config --global user.name ${{ secrets.NAME }}          
           git add .
-          git commit -m ":memo: write status code to JSON"
+          git commit -m ":memo: write status code to JSON" || echo "No changes to commit"
       - name: PUSH
         uses: ad-m/github-push-action@master
         with:
