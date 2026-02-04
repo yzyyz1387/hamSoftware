@@ -31,5 +31,6 @@ jobs:
         with:
           github_token: ${{secrets.GH_TOKEN}}
       - name: 刷新缓存
+        continue-on-error: true
         run: |
           curl -X GET https://jsd.seeku.site/yzyyz1387/hamSoftware/res-web.json
