@@ -12,9 +12,9 @@
 - dec: 一款卫星过境追踪软件，最新版，简体中文
 - zh-CN: True
 - icon: Look4Sat.webp
-- ver: V3.1.4
+- ver: V4.1.1
 - platform: Android
-- url: https://www.123pan.com/s/lQn5jv-oMhVH.html
+- url: https://www.123912.com/s/lQn5jv-dnwVH
 - related-url: https://github.com/rt-bishop/Look4Sat
 ### Look4Sat-Old
 - name: Look4Sat
