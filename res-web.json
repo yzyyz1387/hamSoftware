@@ -28,7 +28,7 @@
         "platform": "WEB",
         "url": "https://www.qrz.com/",
         "related-url": "https://forums.qrz.com/index.php",
-        "status": 200
+        "status": "unknown"
     },
     "LOTW": {
         "name": "ARRL LoTW",
@@ -38,7 +38,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://lotw.arrl.org/lotwuser/default",
-        "status": "unknown"
+        "status": 200
     },
     "HAMCQ": {
         "name": "HAMCQ 社区",
