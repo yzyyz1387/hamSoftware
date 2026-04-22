@@ -60,7 +60,7 @@
         "platform": "WEB",
         "url": "https://www.cqid.cn/",
         "related-url": "https://www.cqid.cn/news/article",
-        "status": 200
+        "status": "unknown"
     },
     "AMSAT": {
         "name": "AMSAT",
