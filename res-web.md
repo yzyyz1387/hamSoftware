@@ -137,3 +137,19 @@
 - ver: .
 - platform: WEB
 - url: https://lcwo.net/
+### Ham通联日志
+- name: Ham通联日志
+- dec: 欢迎来到HAM通联日志，希望这个程序能方便大家记录和管理通联日志。
+- zh-CN: true
+- icon: https://logbook.qsl.pub/assets/logo-BORCpfQi.png
+- ver: .
+- platform: WEB
+- url: https://logbook.qsl.pub
+### QSL认证系统
+- name: QSL认证系统
+- dec: 为业余无线电爱好者提供QSO日志上传及QSL自动确认服务
+- zh-CN: true
+- icon: https://qcs.qsl.pub/favicon.ico
+- ver: .
+- platform: WEB
+- url: https://qcs.qsl.pub
