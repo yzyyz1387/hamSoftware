@@ -3,9 +3,9 @@
 - dec: 与CRAC官网接驳的APP, 可用其报名大部分地区的考试，前往手机应用商店下载最新版
 - zh-CN: True
 - icon: 智谱.png
-- ver: V1.5.9
+- ver: V1.7.0
 - platform: Android iOS
-- url: https://www.123pan.com/s/lQn5jv-FMhVH.html
+- url: https://1830951558.mshare.123pan.cn/123pan/lQn5jv-JhfvA
 - related-url: http://82.157.138.16:8091/CRAC/crac/contact.html
 ### Look4Sat
 - name: Look4Sat
