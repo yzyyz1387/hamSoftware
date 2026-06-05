@@ -28,7 +28,7 @@
         "platform": "WEB",
         "url": "https://www.qrz.com/",
         "related-url": "https://forums.qrz.com/index.php",
-        "status": 200
+        "status": "unknown"
     },
     "LOTW": {
         "name": "ARRL LoTW",
