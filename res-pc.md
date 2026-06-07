@@ -214,4 +214,10 @@
 - platform: Win
 - url: https://www.123912.com/s/lQn5jv-YuxVH
 - related-url: https://www.fritz.dellsperger.net/smith.html
-
+### HamStation
+- name: HamStation
+- dec: 微信公众号 紫丁香卫星，一款适用于Windows系统的业余无线电通信软件，能够在VHF/UHF频段的模拟FM信道上实现图像与短消息传输，可应用于地面及卫星通信场景。
+- zh-CN: True
+- ver: v20230609
+- platform: Win
+- url: https://1drv.ms/f/c/a7c3226f3f26758d/IgAFRQKYjVxGQ76rov1gVneVAduh0kqUgn9QpNWA3la1pNk?e=ICrdx0
