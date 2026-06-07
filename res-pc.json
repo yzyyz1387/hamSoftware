@@ -251,7 +251,7 @@
         "dec": "基于VK5DJ的天线设计经验，以便捷和贴近现实的精准的方式，计算指定频段的八木天线各部分参数，并且还支持生成一份mmana-gal仿真文件便于仿真。",
         "zh-CN": false,
         "ver": "Version 3.0.1 (2023)",
-        "plantform": "Win",
+        "platform": "Win",
         "url": "https://www.vk5dj.com/yagi.html"
     }
 }
