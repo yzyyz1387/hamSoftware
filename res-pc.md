@@ -221,3 +221,10 @@
 - ver: v20230609
 - platform: Win
 - url: https://1drv.ms/f/c/a7c3226f3f26758d/IgAFRQKYjVxGQ76rov1gVneVAduh0kqUgn9QpNWA3la1pNk?e=ICrdx0
+### VK5DJ YAGI CALCULATOR
+- name: 八木天线计算器
+- dec: 基于VK5DJ的天线设计经验，以便捷和贴近现实的精准的方式，计算指定频段的八木天线各部分参数，并且还支持生成一份mmana-gal仿真文件便于仿真。
+- zh-CN: False
+- ver: Version 3.0.1 (2023)
+- plantform: Win
+- url: https://www.vk5dj.com/yagi.html
