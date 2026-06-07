@@ -14,6 +14,14 @@
 - ver: V1.0
 - platform: WEB
 - url: https://s.seeku.site/
+### Bandplans 波段计划
+- name: Bandplans
+- dec: 由全球ham提供和维护的 HF+VHF 6m 波段的频点，这些频点主要以通信模式(2-Way mode)、通信对象、区域等划分。
+- zh-CN: false
+- icon: https://www.bandplans.com/favicon.ico
+- ver: .
+- plantform: WEB
+- url: https://www.bandplans.com/
 ### QRZ.COM
 - name: QRZ.COM
 - dec: 国际知名呼号数据库
