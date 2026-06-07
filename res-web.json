@@ -60,7 +60,7 @@
         "platform": "WEB",
         "url": "https://www.cqid.cn/",
         "related-url": "https://www.cqid.cn/news/article",
-        "status": "unknown"
+        "status": 200
     },
     "AMSAT": {
         "name": "AMSAT",
@@ -180,7 +180,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://logbook.qsl.pub",
-        "status": 200
+        "status": "unknown"
     },
     "QSL认证系统": {
         "name": "QSL认证系统",
