@@ -17,7 +17,7 @@
         "ver": "V1.0",
         "platform": "WEB",
         "url": "https://s.seeku.site/",
-        "status": 200
+        "status": "unknown"
     },
     "Bandplans 波段计划": {
         "name": "Bandplans",
@@ -38,7 +38,7 @@
         "platform": "WEB",
         "url": "https://www.qrz.com/",
         "related-url": "https://forums.qrz.com/index.php",
-        "status": 200
+        "status": "unknown"
     },
     "LOTW": {
         "name": "ARRL LoTW",
@@ -59,7 +59,7 @@
         "platform": "WEB",
         "url": "https://forum.hamcq.cn/",
         "related-url": "https://forum.hamcq.cn/p/14-app-hamcq",
-        "status": 468
+        "status": 200
     },
     "CQID": {
         "name": "cqid.cn",
@@ -70,7 +70,7 @@
         "platform": "WEB",
         "url": "https://www.cqid.cn/",
         "related-url": "https://www.cqid.cn/news/article",
-        "status": 200
+        "status": "unknown"
     },
     "AMSAT": {
         "name": "AMSAT",
@@ -190,7 +190,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://logbook.qsl.pub",
-        "status": 200
+        "status": "unknown"
     },
     "QSL认证系统": {
         "name": "QSL认证系统",
