@@ -17,7 +17,7 @@
         "ver": "V1.0",
         "platform": "WEB",
         "url": "https://s.seeku.site/",
-        "status": "unknown"
+        "status": 200
     },
     "Bandplans 波段计划": {
         "name": "Bandplans",
@@ -38,7 +38,7 @@
         "platform": "WEB",
         "url": "https://www.qrz.com/",
         "related-url": "https://forums.qrz.com/index.php",
-        "status": "unknown"
+        "status": 200
     },
     "LOTW": {
         "name": "ARRL LoTW",
@@ -190,7 +190,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://logbook.qsl.pub",
-        "status": "unknown"
+        "status": 200
     },
     "QSL认证系统": {
         "name": "QSL认证系统",
