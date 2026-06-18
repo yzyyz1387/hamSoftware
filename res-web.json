@@ -140,7 +140,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "http://weixin.cqcqcq.cn/",
-        "status": 200
+        "status": 404
     },
     "PSK Reporter": {
         "name": "PSK Reporter",
