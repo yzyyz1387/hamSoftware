@@ -48,7 +48,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://lotw.arrl.org/lotwuser/default",
-        "status": "unknown"
+        "status": 200
     },
     "HAMCQ": {
         "name": "HAMCQ 社区",
@@ -70,7 +70,7 @@
         "platform": "WEB",
         "url": "https://www.cqid.cn/",
         "related-url": "https://www.cqid.cn/news/article",
-        "status": "unknown"
+        "status": 200
     },
     "AMSAT": {
         "name": "AMSAT",
