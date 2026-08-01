@@ -130,7 +130,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://aprs.fi/",
-        "status": 500
+        "status": 200
     },
     "中继查询网": {
         "name": "中继查询网",
