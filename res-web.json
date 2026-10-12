@@ -190,7 +190,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://logbook.qsl.pub",
-        "status": "unknown"
+        "status": 200
     },
     "QSL认证系统": {
         "name": "QSL认证系统",
