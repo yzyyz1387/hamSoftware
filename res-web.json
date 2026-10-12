@@ -80,7 +80,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://amsat.org/status/index.php",
-        "status": "unknown"
+        "status": 200
     },
     "tevel": {
         "name": "df2et.de/tevel/",
@@ -190,7 +190,7 @@
         "ver": ".",
         "platform": "WEB",
         "url": "https://logbook.qsl.pub",
-        "status": 200
+        "status": "unknown"
     },
     "QSL认证系统": {
         "name": "QSL认证系统",
